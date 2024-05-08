@@ -1,5 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
+import chalkAnimation from "chalk-animation"
 console.log(`
 _________________  |
 | | JO           0. | |
